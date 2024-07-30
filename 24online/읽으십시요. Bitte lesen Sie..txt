@@ -1,0 +1,5 @@
+필수, essentiell = requests, websocket, websocket-client, Flask 
+
+디스코드 24시간 온라인 봇입니다. 해당 코드는 수정을 통하면 유통하셔도 상관 없습니다. #ChoLuckyistsosüß
+
+Discord ist ein 24-Stunden-Online-Bot. Sie dürfen den Code weitergeben, solange er geändert wird. #ChoLuckyistsosüß
